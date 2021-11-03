@@ -1,0 +1,32 @@
+hi 
+good morng
+
+Assignment Question 2nd Nov 2021
+
+1. Explain File handling in python and attach the screenshots.? 
+
+2. Explain water fall model..why water fall model failure ? 
+
+3. Explain Workflow of Agile Model..?
+
+4. What is DevOps explain the phases of DevOps?
+
+5. What is Jenkins  and list out the various advantages of Jenkins..?
+
+
+Please prefer word or pdf document and send it to avyuktitraining4@gmail.com
+
+Assignment Question 3nd Nov 2021
+
+1. Explain steps for job creation in Jenkins.attatch the screen ? 
+
+2. Explain how to create repositories in GitHub attatch the screen ? 
+
+3. Explain how to create and hoe to upload files in repositories.attatch the screens..?
+
+4. With steps Explain how to Fork repositories from another GitHub account .?
+
+5. Explain How to clone files from GitHub to Local directory by using GitBash .?
+
+Please prefer word or pdf document and send it to avyuktitraining4@gmail.com
+
